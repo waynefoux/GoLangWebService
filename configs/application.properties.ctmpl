@@ -1,0 +1,3 @@
+{{ with secret (env "PROPERTIES_FILE") -}}
+{{ .Data.value }}
+{{ end -}}

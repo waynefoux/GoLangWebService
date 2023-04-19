@@ -1,3 +1,3 @@
-module github.com/waynefoux/my-new-project
+module github.com/waynefoux/golang-web-service
 
 go 1.20
